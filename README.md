@@ -1,6 +1,6 @@
 <!--[![MasterHead](https://blob.sololearn.com/avatars/5d22e885-353c-4850-956d-493a240559ab.jpg)](https://syipmong.com)-->
-<!-- <img align="center" src="https://blob.sololearn.com/avatars/5d22e885-353c-4850-956d-493a240559ab.jpg" alt="coding" width="400" height="400" border-radius="50"/>
- -->
+<p align="center"> <img align="center" src="https://blob.sololearn.com/avatars/5d22e885-353c-4850-956d-493a240559ab.jpg" alt="coding" width="400" height="400"/>
+ </p>
 <h1 align="center">Hi 👋, I'm Yipmong</h1>
 <h3 align="center">A passionate Flutter, Python and Web developer from Nigeria</h3>
 
