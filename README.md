@@ -6,7 +6,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syipmong&label=Profile%20views&color=0e75b6&style=flat" alt="syipmong" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=syipmong&label=Profile%20views&color=0e75b6&style=flat" alt="syipmong" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syipmong" alt="syipmong" /></a> </p>
 
@@ -54,5 +54,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syipmong&" alt="syipmong" /></p>
 
-[![GitHub syipmong](https://img.shields.io/github/followers/syipmong?label=follow&style=social&logoColor=black)](https://github.com/syipmong)
+[![GitHub yipmong](https://img.shields.io/github/followers/syipmong?label=follow&style=social&logoColor=black)](https://github.com/syipmong)
 ![Profile views](https://gpvc.arturio.dev/syipmong)
