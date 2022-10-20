@@ -53,3 +53,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syipmong&show_icons=true&locale=en" alt="syipmong" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syipmong&" alt="syipmong" /></p>
+
+[![GitHub syipmong](https://img.shields.io/github/followers/syipmong?label=follow&style=social&logoColor=black)](https://github.com/syipmong)
+![Profile views](https://gpvc.arturio.dev/syipmong)
