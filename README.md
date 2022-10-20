@@ -53,7 +53,7 @@
 
 <p align="center">
     <a href="https://github.com/Syipmong"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syipmong&theme=tokyonight&hide_border=true"  width="470" alt="Yipmong"/></a>
-<a href="https://github.com/Syipmong"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Syipmong&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="350"  alt="Yipmong"/></a>
+<a href="https://github.com/Syipmong"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=syipmong&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="350"  alt="Yipmong"/></a>
 </p>
 
 
