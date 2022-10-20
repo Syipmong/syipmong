@@ -1,5 +1,5 @@
 <!--[![MasterHead](https://blob.sololearn.com/avatars/5d22e885-353c-4850-956d-493a240559ab.jpg)](https://syipmong.com)-->
-<img src="https://avatars.githubusercontent.com/u/98860942?s=40&v=4" alt="coding" align="center" width="400" height="400" border-radius="50"/>
+<img align="center" src="https://blob.sololearn.com/avatars/5d22e885-353c-4850-956d-493a240559ab.jpg" alt="coding" width="400" height="400" border-radius="50"/>
 
 <h1 align="center">Hi 👋, I'm Yipmong</h1>
 <h3 align="center">A passionate Flutter, Python and Web developer from Nigeria</h3>
