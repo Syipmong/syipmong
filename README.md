@@ -14,11 +14,11 @@
 <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="coding" align="right" width="400">
 - 🔭 I’m currently working on a flutter software application](https://github.com/Syipmong/flutter-app)
 
-- 🌱 I’m currently learning **Python django, Firebase, Flutter, React and Sotware Development**
+- 🌱 I’m currently learning **Python django, Firebase, Flutter, React and Software Development**
 
 - 👯 I’m looking to collaborate on [building a full fledge softwares and websites](https://yipmongprojects.com)
 
-- 💬 Ask me about **Flutter, Python and Firebase**
+- 💬 Ask me about **Flutter, Python, JavaScript and Firebase**
 
 - ⚡ Fun fact **Coding can “power up” your brain**
 
