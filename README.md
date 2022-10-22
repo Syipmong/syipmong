@@ -1,5 +1,5 @@
 <!--[![MasterHead](https://blob.sololearn.com/avatars/5d22e885-353c-4850-956d-493a240559ab.jpg)](https://syipmong.com)-->
-<p align="center"> <img align="center" src="https://i.pinimg.com/originals/d4/7b/ab/d47babc4a6066749430a4a4e3abfd8b4.gif" alt="coding" width="400" height="400"/>
+<p align="center"> <img align="center" src="https://thumbs.gfycat.com/OrdinaryIcyDuiker-max-1mb.gif" alt="coding" width="400" height="400"/>
  </p>
 <h1 align="center">Hi 👋, I'm Yipmong</h1>
 <h3 align="center">A passionate Flutter, Python and Web developer from Nigeria</h3>
@@ -10,7 +10,7 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syipmong" alt="syipmong" /></a> </p>-->
 
-<p align="left"> <a href="https://twitter.com/syipmong" target="blank"><img src="https://img.shields.io/twitter/follow/syipmong?logo=twitter&style=for-the-badge" alt="syipmong" /></a> </p>
+<p align="center"> <a href="https://twitter.com/syipmong" target="blank"><img src="https://img.shields.io/twitter/follow/syipmong?logo=twitter&style=for-the-badge" alt="syipmong" /></a> </p>
 <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="coding" align="right" width="400">
 - 🔭 I’m currently working on a flutter software application](https://github.com/Syipmong/flutter-app)
 
