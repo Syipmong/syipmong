@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Yipmong</h1>
 <h3 align="center">A passionate Flutter, Python and Web developer from Nigeria</h3>
 
-
+[![@syipmong's Holopin board](https://holopin.me/syipmong)](https://holopin.io/@syipmong)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=syipmong&label=Profile%20views&color=0e75b6&style=flat" alt="syipmong" /> </p>
 
