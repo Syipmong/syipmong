@@ -68,7 +68,7 @@ Feel free to contact me for any inquiries or to collaborate on a project.
 [![Mail](https://img.shields.io/badge/-Say%20Hello!-black?style=for-the-badge&logo=gmail)](mailto:syipmong5@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/Syipmong)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/Syipmong)
-[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-black?style=for-the-badge&logo=StackOverflow)](https://stackoverflow.com/users/yipmong)
+[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-black?style=for-the-badge&logo=StackOverflow)](https://stackoverflow.com/users/syipmong)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-black?style=for-the-badge&logo=Hackerrank)](https://www.hackerrank.com/syipmong)
 [![Sololearn](https://img.shields.io/badge/-Sololearn-black?style=for-the-badge&logo=Sololearn)](https://www.sololearn.com/profile/13664987)
 
@@ -79,7 +79,7 @@ Feel free to contact me for any inquiries or to collaborate on a project.
 <a href="https://codepen.io/syipmong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="syipmong" height="30" width="40" /></a>
 <a href="https://twitter.com/syipmong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syipmon" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/Syipmong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syipmong" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/yipmong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yipmong" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/syipmong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yipmong" height="30" width="40" /></a>
  <a href="https://fb.com/syipmong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syipmong" height="30" width="40" /></a>
 <a href="https://instagram.com/said_yipmong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="said_yipmong" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/yipmong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yipmong" height="30" width="40" /></a>
