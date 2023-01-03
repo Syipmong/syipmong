@@ -2,7 +2,7 @@
 <p align="center"> <img align="center" src="https://thumbs.gfycat.com/OrdinaryIcyDuiker-max-1mb.gif" alt="coding" width="400" height="400"/>
  </p>
 <h1 align="center">Hi 👋, I'm Yipmong</h1>
-<h3 align="center">A passionate Flutter, Python and Web developer from Nigeria</h3>
+<!--<h3 align="center">A passionate Flutter, Python and Web developer from Nigeria</h3>-->
 
 [![@syipmong's Holopin board](https://holopin.me/syipmong)](https://holopin.io/@syipmong)
 
@@ -12,15 +12,36 @@
 
 <p align="center"> <a href="https://twitter.com/syipmong" target="blank"><img src="https://img.shields.io/twitter/follow/syipmong?logo=twitter&style=for-the-badge" alt="syipmong" /></a> </p>
 <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="coding" align="right" width="400">
-- 🔭 I’m currently working on a flutter software application](https://github.com/Syipmong/flutter-app)
 
-- 🌱 I’m currently learning **Python django, Firebase, Flutter, React and Software Development**
+# My GitHub Profile
 
-- 👯 I’m looking to collaborate on [building a full fledge softwares and websites](https://yipmongprojects.com)
+## About Me
 
-- 💬 Ask me about **Flutter, Python, JavaScript and Firebase**
+I am a programmer with experience in Javascript, Flutter, Dart, Python, C++, C#, React, Java, and Kotlin. I have a background in computer science and am skilled in designing, developing, and testing software applications. I am always looking to learn and improve my skills.
 
-- ⚡ Fun fact **Coding can “power up” your brain**
+## Skills
+
+- Programming languages: Javascript, Flutter, Dart, Python, C++, C#, React, Java, Kotlin
+- Software development
+- Debugging and problem-solving
+- Collaboration and communication
+
+## Projects
+
+- Programmers Hub: A community platform for programmers to share knowledge and resources. Technologies used: React, Node.js, and MongoDB.
+- ClassiQ Community: A classified ads platform for buying and selling goods and services. Technologies used: Flutter, Dart, Google Cloud, and Firebase.
+
+## Education
+
+- Bachelor's degree in Computer Science from Baze University
+- Courses in relevant subjects from Sololearn, freecodecamp, and w3schools.
+
+## Contact
+
+Feel free to contact me for any inquiries or to collaborate on a project.
+- Email: syipmong5@gmail.com
+- LinkedIn: syipmong
+
 
 <p align="center">
   <img align="center" src="https://readme-jokes.vercel.app/api" width="820"/>
