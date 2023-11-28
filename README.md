@@ -1,7 +1,9 @@
 <!--[![MasterHead](https://blob.sololearn.com/avatars/5d22e885-353c-4850-956d-493a240559ab.jpg)](https://syipmong.com)-->
 <p align="center"> <img align="center" src="https://thumbs.gfycat.com/OrdinaryIcyDuiker-max-1mb.gif" alt="coding" width="400" height="400"/>
  </p>
-<h1 align="center">Hi 👋, I'm Yipmong</h1>
+<h1 align="center">👋 Hello there!</h1>
+<p align='center'>I'm Yipmong a computer science student with a passion for open source and cutting-edge technologies. I thrive on exploring the realms of JavaScript, Java, and C++, constantly learning and contributing to the tech community. Join me on my coding journey as I embrace the ever-evolving world of software development! 🚀
+</p>
 <!--<h3 align="center">A passionate Flutter, Python and Web developer from Nigeria</h3>-->
 
 [![@syipmong's Holopin board](https://holopin.me/syipmong)](https://holopin.io/@syipmong)
@@ -17,23 +19,31 @@
 
 ## About Me
 
-I am a programmer with experience in Javascript, Flutter, Dart, Python, C++, C#, React, Java, and Kotlin. I have a background in computer science and am skilled in designing, developing, and testing software applications. I am always looking to learn and improve my skills.
+A dedicated computer science student on a mission to unravel the mysteries of the digital realm. My journey in the world of code began with a fascination for problem-solving and has evolved into a love for crafting elegant solutions. 
+
+🚀 As an avid advocate for open source, I relish the collaborative nature of software development. You'll often find me immersed in the realms of JavaScript, Java, and C++, where I strive to master the intricacies of each language.
+
+💡 Beyond the screen, I'm fueled by a curiosity for emerging technologies and their potential to shape the future. From web development to algorithmic challenges, I thrive on the continuous learning inherent in the ever-evolving field of computer science.
+
+🌐 Join me on this exhilarating coding journey as I explore, create, and contribute to the dynamic landscape of technology. Let's build something amazing together! 💻✨
+
 
 ## Skills
 
-- Programming languages: Javascript, Flutter, Dart, Python, C++, C#, React, Java, Kotlin
+- Programming languages: Javascript, Python, C++, Java, Dart
+- Frameworks: Reactjs, Flutter, Django
 - Software development
 - Debugging and problem-solving
 - Collaboration and communication
 
 ## Projects
 
-- Programmers Hub: A community platform for programmers to share knowledge and resources. Technologies used: React, Node.js, and MongoDB.
-- ClassiQ Community: A classified ads platform for buying and selling goods and services. Technologies used: Flutter, Dart, Google Cloud, and Firebase.
+- Expense Tracker - A management tool for monitoring and managing of users expenses
+  
 
 ## Education
 
-- Bachelor's degree in Computer Science from Baze University
+- Bachelor's degree Student of Computer Science from Baze University
 - Courses in relevant subjects from Sololearn, freecodecamp, and w3schools.
 
 ## Contact
