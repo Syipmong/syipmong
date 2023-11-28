@@ -2,7 +2,7 @@
 <p align="center"> <img align="center" src="https://thumbs.gfycat.com/OrdinaryIcyDuiker-max-1mb.gif" alt="coding" width="400" height="400"/>
  </p>
 <h1 align="center">👋 Hello there!</h1>
-<p align='center'>I'm Yipmong a computer science student with a passion for open source and cutting-edge technologies. I thrive on exploring the realms of JavaScript, Java, and C++, constantly learning and contributing to the tech community. Join me on my coding journey as I embrace the ever-evolving world of software development! 🚀
+<p align='center'>I'm Yipmong Said!, a computer science student with a passion for open source and cutting-edge technologies. I thrive on exploring the realms of JavaScript, Java, Py and C++, constantly learning and contributing to the tech community. Join me on my coding journey as I embrace the ever-evolving world of software development! 🚀
 </p>
 <!--<h3 align="center">A passionate Flutter, Python and Web developer from Nigeria</h3>-->
 
@@ -21,7 +21,7 @@
 
 A dedicated computer science student on a mission to unravel the mysteries of the digital realm. My journey in the world of code began with a fascination for problem-solving and has evolved into a love for crafting elegant solutions. 
 
-🚀 As an avid advocate for open source, I relish the collaborative nature of software development. You'll often find me immersed in the realms of JavaScript, Java, and C++, where I strive to master the intricacies of each language.
+🚀 As an avid advocate for open source, I relish the collaborative nature of software development. You'll often find me immersed in the realms of JavaScript, Java, Py and C++, where I strive to master the intricacies of each language.
 
 💡 Beyond the screen, I'm fueled by a curiosity for emerging technologies and their potential to shape the future. From web development to algorithmic challenges, I thrive on the continuous learning inherent in the ever-evolving field of computer science.
 
@@ -39,6 +39,7 @@ A dedicated computer science student on a mission to unravel the mysteries of th
 ## Projects
 
 - Expense Tracker - A management tool for monitoring and managing of users expenses
+  
   
 
 ## Education
