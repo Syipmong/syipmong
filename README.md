@@ -92,16 +92,18 @@ Feel free to contact me for any inquiries or to collaborate on a project.
 
 
 <p align="center">
-    <a href="https://github.com/syipmong"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syipmong&theme=tokyonight&hide_border=true"  width="470" alt="Yipmong"/></a>
-<a href="https://github.com/syipmong"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=syipmong&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="350"  alt="Yipmong"/></a>
+<a href="https://github.com/syipmong"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=syipmong&langs_count=14&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="470px"  alt="Yipmong"/></a>
 </p>
+<div align='center'>
+ <a href="https://github.com/syipmong"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syipmong&theme=tokyonight&hide_border=true"  width="470" alt="Yipmong"/></a>
+</div>
 
 
-<p align="center">
+<!--<p align="center">
     <a href="https://github.com/syipmong">
       <img src="https://activity-graph.herokuapp.com/graph?username=Syipmong&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2200AE&text_color=D3D3D3&bg_color=0,000000,130F40&theme=tokyonight" width="820"  alt="Yipmong"/></a>
  
-  </p>
+  </p>-->
 
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syipmong&show_icons=true&locale=en&layout=compact" alt="syipmong" /></p>
@@ -110,5 +112,12 @@ Feel free to contact me for any inquiries or to collaborate on a project.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syipmong&" alt="syipmong" /></p>-->
 
+<!--<div align='center'>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syipmong&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Yipmong language" height="192px"  width="500px"/>
+</div>-->
+
+
 [![GitHub yipmong](https://img.shields.io/github/followers/syipmong?label=follow&style=social&logoColor=black)](https://github.com/syipmong)
-![Profile views](https://gpvc.arturio.dev/syipmong)
+<!--![Profile views](https://gpvc.arturio.dev/syipmong)-->
+
+
