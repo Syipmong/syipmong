@@ -66,10 +66,10 @@ Feel free to contact me for any inquiries or to collaborate on a project.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=syipmong&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130C40" width="450"/>
 </a>
   <a href="https://github.com/syipmong/">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syipmong&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2200AE&text_color=D3D3D3&bg_color=0,000000,130C40" width="380"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syipmong&theme=jolly&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2200AE&text_color=D3D3D3&bg_color=0,000000,130C40" width="380"/>
 </a>
  <a href="https://github.com/syipmong">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=syipmong&theme=tokyonight" width="820"/>
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=syipmong&theme=darkhub" width="820"/>
   </a>
 </p>
 
@@ -101,7 +101,7 @@ Feel free to contact me for any inquiries or to collaborate on a project.
 
 
 <p align="center">
-<a href="https://github.com/syipmong"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=syipmong&langs_count=14&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="470px"  alt="Yipmong"/></a>
+<a href="https://github.com/syipmong"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=syipmong&langs_count=14&show_icons=true&locale=en&layout=compact&theme=jolly" width="470px"  alt="Yipmong"/></a>
 </p>
 
 <div align='center'>
@@ -110,10 +110,25 @@ Feel free to contact me for any inquiries or to collaborate on a project.
 
 </div>
 
-<div align='center'>
+<!--<div align='center'>
  <a href="https://github.com/syipmong"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syipmong&theme=tokyonight&hide_border=true"  width="470" alt="Yipmong"/></a>
-</div>
+</div>-->
 
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/syipmong">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=syipmong&theme=jolly" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=syipmong&theme=jolly" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syipmong&theme=jolly" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=syipmong&theme=jolly" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syipmong&theme=jolly" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=syipmong&theme=default"/>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 <!--<p align="center">
     <a href="https://github.com/syipmong">
