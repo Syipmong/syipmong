@@ -1,7 +1,7 @@
 <!--[![MasterHead](https://blob.sololearn.com/avatars/5d22e885-353c-4850-956d-493a240559ab.jpg)](https://syipmong.com)-->
 <p align="center"> <img align="center" src="https://thumbs.gfycat.com/OrdinaryIcyDuiker-max-1mb.gif" alt="coding" width="400" height="400"/>
  </p>
-<h1 align="center">👋 Hello there!</h1>
+<h1 align = "center" ><img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=440&lines=👋+Hey%2C+I%E2%80%99m+Yipmong+Said!💻" /></h1>
 <p align='center'>I'm Yipmong Said!, a computer science student with a passion for open source and cutting-edge technologies. I thrive on exploring the realms of JavaScript, Java, Py and C++, constantly learning and contributing to the tech community. Join me on my coding journey as I embrace the ever-evolving world of software development! 🚀
 </p>
 <!--<h3 align="center">A passionate Flutter, Python and Web developer from Nigeria</h3>-->
