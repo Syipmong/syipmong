@@ -2,7 +2,7 @@
 <p align="center"> <img align="center" src="https://thumbs.gfycat.com/OrdinaryIcyDuiker-max-1mb.gif" alt="coding" width="400" height="400"/>
  </p>
 <h1 align = "center" ><img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=440&lines=👋+Hey%2C+I%E2%80%99m+Yipmong+Said!💻" /></h1>
-<p align='center'>A computer science student with a passion for open source and cutting-edge technologies. I thrive on exploring the realms of JavaScript, Java, Py and C++, constantly learning and contributing to the tech community. Join me on my coding journey as I embrace the ever-evolving world of software development! 🚀
+<p align='center'>A computer science student with a passion for open source and cutting-edge technologies. I thrive on exploring the realms of JavaScript, Typescript, Java, Python and C++, constantly learning and contributing to the tech community. Join me on my coding journey as I embrace the ever-evolving world of software development! 🚀
 </p>
 <!--<h3 align="center">A passionate Flutter, Python and Web developer from Nigeria</h3>-->
 
@@ -30,8 +30,8 @@ A dedicated computer science student on a mission to unravel the mysteries of th
 
 ## Skills
 
-- Programming languages: Javascript, Python, C++, Java, Dart
-- Frameworks: Reactjs, Flutter, Django
+- Programming languages: Javascript, Python, C++, Java, Dart, Typescript
+- Frameworks: Reactjs, Nextjs, Flutter, Django and Flask
 - Software development
 - Debugging and problem-solving
 - Collaboration and communication
@@ -40,6 +40,8 @@ A dedicated computer science student on a mission to unravel the mysteries of th
 
 - Expense Tracker - A management tool for monitoring and managing of users expenses
 - Yeep Programming Language - An interpreted Programming language with Functions and OOP
+- NXDI Website - A software And Programming Development Company based in Nigeria
+- Open School - An Open-source School with features of google meet and classroom combined and more
 
   
   
