@@ -352,7 +352,7 @@ graph LR
 
 </div>
 
-### 🎯 Language Proficiency RadarAdd commentMore actions
+### 🎯 Language Proficiency Radar
 ```mermaid
 %%{init: {"quadrantChart": {"chartWidth": 400, "chartHeight": 400}}}%%
 quadrantChart
