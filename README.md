@@ -227,7 +227,7 @@ timeline
 
 ## 🌟 Featured Projects & Innovations
 
-### 🤖 [Clivica - AI-Powered Platform](https://github.com/syipmong/clivica)
+### 🤖 [Clivica - AI-Powered Platform](https://clivica.com)
 **Revolutionary AI platform changing how users interact with technology**
 - **Tech Stack:** Next.js, TypeScript, FastAPI, Python, PostgreSQL
 - **Features:** AI-driven insights, Real-time analytics, Advanced ML models
@@ -335,83 +335,71 @@ graph LR
   <img src="https://wakatime.com/share/@syipmong/abe25e2c-a932-4820-93df-9395ebdf2ec0.png" />
 </div>
 
-## 🌐 Detailed Tech Stack
+### 🎯 Language Proficiency Radar
+```mermaid
+%%{init: {"quadrantChart": {"chartWidth": 400, "chartHeight": 400}}}%%
+quadrantChart
+    title Language Proficiency Matrix
+    x-axis Low Usage --> High Usage
+    y-axis Low Complexity --> High Complexity
+    
+    quadrant-1 Mastery Zone
+    quadrant-2 Learning Zone  
+    quadrant-3 Comfort Zone
+    quadrant-4 Expert Zone
+    
+    TypeScript: [0.9, 0.8]
+    JavaScript: [0.7, 0.6]
+    Python: [0.6, 0.7]
+    Dart: [0.8, 0.7]
+    Java: [0.5, 0.8]
+    C++: [0.4, 0.9]
+    React: [0.9, 0.7]
+    Next.js: [0.9, 0.8]
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  </a>
-</p>
+## 🌍 Global Impact & Community
+
+### 🤝 Open Source Contributions Impact
+<div align="center">
+
+| Repository | Language | Stars | Forks | Impact |
+|------------|----------|-------|-------|--------|
+| **Clivica** | TypeScript | ⭐ 45+ | 🍴 12+ | 🌟 High |
+| **Vica AI** | Python | ⭐ 30+ | 🍴 8+ | 🌟 High |
+| **Yeep Lang** | Python | ⭐ 25+ | 🍴 5+ | 🌟 Medium |
+| **Open School** | TypeScript | ⭐ 20+ | 🍴 6+ | 🌟 Medium |
+| **Others** | Various | ⭐ 50+ | 🍴 15+ | 🌟 Growing |
+
+</div>
+
+### 🌐 Developer Community Engagement
+```mermaid
+mindmap
+  root((🌍 Community Impact))
+    GitHub
+      50+ Repositories
+      200+ Commits
+      100+ Issues Solved
+    Stack Overflow
+      Technical Answers
+      Problem Solving
+      Knowledge Sharing
+    Twitter/X
+      Tech Insights
+      Project Updates
+      Developer Tips
+    LinkedIn
+      Professional Network
+      Industry Insights
+      Career Growth
+```
+
+### 📚 Knowledge Sharing & Mentorship
+- 🎓 **Mentored 10+ junior developers** in React, TypeScript, and Python
+- 📝 **Written 15+ technical articles** on Medium and Dev.to
+- 🎤 **Spoke at 3 local tech meetups** about AI and web development
+- 💡 **Created 5+ open-source templates** for faster project bootstrapping
 
 ## 🤝 Let's Connect & Collaborate!
 
@@ -509,12 +497,12 @@ gantt
 - ⚡ **Lightning Fast Prototyping** - Idea to MVP in 48 hours
 - 🧠 **Pattern Recognition Master** - Spot optimization opportunities instantly  
 - 🔍 **Debug Detective** - Can find bugs others miss
-- �️ **Architecture Architect** - Design scalable systems from scratch
+- 🏗️ **Architecture Architect** - Design scalable systems from scratch
 - 🤖 **AI Integration Wizard** - Make any app smarter with AI
 - 📱 **Cross-Platform Champion** - One codebase, multiple platforms
 - 🎯 **Performance Perfectionist** - Sub-second load times obsession
 
-### � Innovation Philosophy
+### 💡 Innovation Philosophy
 > *"Code is poetry written in logic. Every function should tell a story, every component should have a purpose, and every project should solve a real problem."*
 
 ```mermaid
@@ -591,120 +579,5 @@ mindmap
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
   <img src="https://forthebadge.com/images/badges/open-source.svg" />
 </div>
-
-## 📊 Advanced Analytics Dashboard
-
-<div align="center">
-
-### 🔥 Real-Time Coding Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=syipmong&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
-
-### 📈 Comprehensive GitHub Statistics
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syipmong&theme=tokyonight" width="100%" />
-</div>
-
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=syipmong&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&custom_title=Yipmong's%20GitHub%20Stats"/>
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=syipmong&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syipmong&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&custom_title=Most%20Used%20Languages"/>
-</div>
-
-### 🏆 Trophy Cabinet & Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=syipmong&theme=darkhub&no-frame=true&margin-w=10&margin-h=10&column=8&rank=SSS,SS,S,AAA,AA,A,B"/>
-</div>
-
-### 📊 Detailed Performance Metrics
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syipmong&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=syipmong&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syipmong&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=syipmong&theme=tokyonight" />
-</div>
-
-### ⚡ Advanced Contribution Analytics
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=syipmong&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="60%" />
-</div>
-
-### 💻 WakaTime Development Insights
-<div align="center">
-  <img src="https://wakatime.com/share/@syipmong/abe25e2c-a932-4820-93df-9395ebdf2ec0.png" width="70%" />
-</div>
-
-### 🎯 Language Proficiency Radar
-```mermaid
-%%{init: {"quadrantChart": {"chartWidth": 400, "chartHeight": 400}}}%%
-quadrantChart
-    title Language Proficiency Matrix
-    x-axis Low Usage --> High Usage
-    y-axis Low Complexity --> High Complexity
-    
-    quadrant-1 Mastery Zone
-    quadrant-2 Learning Zone  
-    quadrant-3 Comfort Zone
-    quadrant-4 Expert Zone
-    
-    TypeScript: [0.9, 0.8]
-    JavaScript: [0.7, 0.6]
-    Python: [0.6, 0.7]
-    Dart: [0.8, 0.7]
-    Java: [0.5, 0.8]
-    C++: [0.4, 0.9]
-    React: [0.9, 0.7]
-    Next.js: [0.9, 0.8]
-```
-
-## 🌍 Global Impact & Community
-
-### 🤝 Open Source Contributions Impact
-<div align="center">
-
-| Repository | Language | Stars | Forks | Impact |
-|------------|----------|-------|-------|--------|
-| **Clivica** | TypeScript | ⭐ 45+ | 🍴 12+ | 🌟 High |
-| **Vica AI** | Python | ⭐ 30+ | 🍴 8+ | 🌟 High |
-| **Yeep Lang** | Python | ⭐ 25+ | 🍴 5+ | 🌟 Medium |
-| **Open School** | TypeScript | ⭐ 20+ | 🍴 6+ | 🌟 Medium |
-| **Others** | Various | ⭐ 50+ | 🍴 15+ | 🌟 Growing |
-
-</div>
-
-### 🌐 Developer Community Engagement
-```mermaid
-mindmap
-  root((🌍 Community Impact))
-    GitHub
-      50+ Repositories
-      200+ Commits
-      100+ Issues Solved
-    Stack Overflow
-      Technical Answers
-      Problem Solving
-      Knowledge Sharing
-    Twitter/X
-      Tech Insights
-      Project Updates
-      Developer Tips
-    LinkedIn
-      Professional Network
-      Industry Insights
-      Career Growth
-```
-
-### 📚 Knowledge Sharing & Mentorship
-- 🎓 **Mentored 10+ junior developers** in React, TypeScript, and Python
-- 📝 **Written 15+ technical articles** on Medium and Dev.to
-- 🎤 **Spoke at 3 local tech meetups** about AI and web development
-- 💡 **Created 5+ open-source templates** for faster project bootstrapping
 
 
