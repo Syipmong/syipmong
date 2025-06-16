@@ -332,7 +332,7 @@ graph LR
 ## 💻 WakaTime Coding Stats
 
 <div align="center">
-  <img src="https://wakatime.com/share/@syipmong/abe25e2c-a932-4820-93df-9395ebdf2ec0.png" />
+  <img src="https://wakatime.com/share/@syipmong/abe25e2c-a932-4820-93df-9395ebdf2ec0.png" width="70%/>
 </div>
 
 ### 🎯 Language Proficiency Radar
