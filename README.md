@@ -335,27 +335,43 @@ graph LR
   <img src="https://wakatime.com/share/@syipmong/abe25e2c-a932-4820-93df-9395ebdf2ec0.png" width="70%/>
 </div>
 
-### 🎯 Language Proficiency Radar
+### 🎯 Language Proficiency Matrix
+
+<div align="center">
+
+| Technology | Usage Level | Complexity | Proficiency Zone |
+|------------|-------------|------------|------------------|
+| **TypeScript** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | 🔥 **Mastery Zone** |
+| **React** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | 🔥 **Mastery Zone** |
+| **Next.js** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | 🔥 **Mastery Zone** |
+| **Dart** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | 🚀 **Expert Zone** |
+| **JavaScript** | ⭐⭐⭐⭐ | ⭐⭐⭐ | ✅ **Comfort Zone** |
+| **Python** | ⭐⭐⭐ | ⭐⭐⭐⭐ | 📈 **Learning Zone** |
+| **Java** | ⭐⭐⭐ | ⭐⭐⭐⭐ | 📈 **Learning Zone** |
+| **C++** | ⭐⭐ | ⭐⭐⭐⭐⭐ | 📈 **Learning Zone** |
+
+</div>
+
 ```mermaid
-%%{init: {"quadrantChart": {"chartWidth": 400, "chartHeight": 400}}}%%
-quadrantChart
-    title Language Proficiency Matrix
-    x-axis Low Usage --> High Usage
-    y-axis Low Complexity --> High Complexity
+graph TD
+    A[🎯 Language Proficiency] --> B[🔥 Mastery Zone]
+    A --> C[🚀 Expert Zone]
+    A --> D[✅ Comfort Zone]
+    A --> E[📈 Learning Zone]
     
-    quadrant-1 Mastery Zone
-    quadrant-2 Learning Zone  
-    quadrant-3 Comfort Zone
-    quadrant-4 Expert Zone
+    B --> B1[TypeScript 90%]
+    B --> B2[React 90%]
+    B --> B3[Next.js 90%]
     
-    TypeScript: [0.9, 0.8]
-    JavaScript: [0.7, 0.6]
-    Python: [0.6, 0.7]
-    Dart: [0.8, 0.7]
-    Java: [0.5, 0.8]
-    C++: [0.4, 0.9]
-    React: [0.9, 0.7]
-    Next.js: [0.9, 0.8]
+    C --> C1[Dart 80%]
+    C --> C2[Flutter 85%]
+    
+    D --> D1[JavaScript 70%]
+    D --> D2[Node.js 75%]
+    
+    E --> E1[Python 60%]
+    E --> E2[Java 50%]
+    E --> E3[C++ 40%]
 ```
 
 ## 🌍 Global Impact & Community
