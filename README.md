@@ -352,6 +352,29 @@ graph LR
 
 </div>
 
+### 🎯 Language Proficiency RadarAdd commentMore actions
+```mermaid
+%%{init: {"quadrantChart": {"chartWidth": 400, "chartHeight": 400}}}%%
+quadrantChart
+    title Language Proficiency Matrix
+    x-axis Low Usage --> High Usage
+    y-axis Low Complexity --> High Complexity
+    
+    quadrant-1 Mastery Zone
+    quadrant-2 Learning Zone  
+    quadrant-3 Comfort Zone
+    quadrant-4 Expert Zone
+    
+    TypeScript: [0.9, 0.8]
+    JavaScript: [0.7, 0.6]
+    Python: [0.6, 0.7]
+    Dart: [0.8, 0.7]
+    Java: [0.5, 0.8]
+    C++: [0.4, 0.9]
+    React: [0.9, 0.7]
+    Next.js: [0.9, 0.8]
+```
+
 ```mermaid
 graph TD
     A[🎯 Language Proficiency] --> B[🔥 Mastery Zone]
