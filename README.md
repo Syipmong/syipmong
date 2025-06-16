@@ -73,28 +73,6 @@ graph TD
 
 ```mermaid
 mindmap
-  root((🧠 Skills))
-    Frontend
-      React
-      Next.js
-      Flutter
-      TypeScript
-    Backend
-      Node.js
-      Python
-      Django
-      Flask
-    Database
-      MySQL
-      SQLite
-      Firebase
-    Tools
-      Git
-      Docker
-      Linux
-      Figma
-```mermaid
-mindmap
   root((🧠 Tech Arsenal))
     Frontend
       TypeScript (59.67%)
@@ -108,6 +86,25 @@ mindmap
       Python (6.08%)
       Prisma ORM
     Mobile
+      Dart (9.84%)
+      Flutter
+      React Native
+    Databases
+      MongoDB
+      PostgreSQL
+      SQLite
+      Firebase
+    Languages
+      Java
+      C/C++
+      C#
+    Tools & Editors
+      VS Code (90.75%)
+      Android Studio (6.91%)
+      Visual Studio (2.23%)
+      IntelliJ IDEA
+      Blender
+```
       Dart (9.84%)
       Flutter
       React Native
