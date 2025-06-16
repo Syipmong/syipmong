@@ -105,25 +105,6 @@ mindmap
       IntelliJ IDEA
       Blender
 ```
-      Dart (9.84%)
-      Flutter
-      React Native
-    Databases
-      MongoDB
-      PostgreSQL
-      SQLite
-      Firebase
-    Languages
-      Java
-      C/C++
-      C#
-    Tools & Editors
-      VS Code (90.75%)
-      Android Studio (6.91%)
-      Visual Studio (2.23%)
-      IntelliJ IDEA
-      Blender
-```
 
 ## 💻 My Coding Statistics (Real Data)
 
