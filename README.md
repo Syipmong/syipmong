@@ -16,6 +16,18 @@
   </a>
 </div>
 
+## Table of Contents
+
+- [About Me](#about-me)
+- [Technical Arsenal](#technical-arsenal)
+- [Coding Statistics](#my-coding-statistics-real-data)
+- [Tech Stack Visualization](#comprehensive-tech-stack-visualization)
+- [Featured Projects & Innovations](#featured-projects--innovations)
+- [GitHub Analytics](#github-analytics)
+- [Contribution Metrics](#contribution-metrics)
+- [WakaTime Coding Stats](#wakatime-coding-stats)
+
+<br/>
 <br/>
 
 <div align="center">
