@@ -18,7 +18,7 @@
 
 
 ### 🎧 On Spotify – Now Playing:
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=syipmong&count=3)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=syipmong&count=1)
 
 ## Table of Contents
 
