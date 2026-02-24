@@ -16,6 +16,10 @@
   </a>
 </div>
 
+
+### 🎧 On Spotify – Now Playing:
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=syipmong&count=3)
+
 ## Table of Contents
 
 - [About Me](#about-me)
