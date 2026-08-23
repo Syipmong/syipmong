@@ -18,7 +18,7 @@
 
 
 ### 🎧 On Spotify – Now Playing:
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mudn3o55rnmvugztps6qqdshie&unique={true|1|on|yes}&count=2)
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31mudn3o55rnmvugztps6qqdshie&width=580&radius=12&duration=1&album=1)
 
 ## Table of Contents
 
