@@ -2,14 +2,10 @@
 
 **Computational Science and Engineering | Cyber-Physical Systems**  
 *Research focus: Numerical linear algebra, deterministic real-time simulation, and high-performance edge computing.*
-<br/><div align="center">
-<img src="https://komarev.com/ghpvc/?username=syipmong&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-</div>
 
 [![X](https://img.shields.io/badge/X-@SaidYipmong-black?style=flat-square&logo=x)](https://twitter.com/SaidYipmong)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Said_Yipmong-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/Syipmong)
 [![Email](https://img.shields.io/badge/Email-said@aetechlabs.com-D14836?style=flat-square&logo=gmail)](mailto:said@aetechlabs.com)
-
 
 ---
 
@@ -53,45 +49,13 @@ My work bridges physical system dynamics with efficient discrete computation.
 
 ### System Telemetry
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syipmong&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syipmong&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=syipmong&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syipmong&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-</div>
-
-## 🏆 GitHub Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=syipmong&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7"/>
-</div>
-
-## 📈 Contribution Metrics
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=syipmong&theme=tokyo-night&hide_border=true&area=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=syipmong&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</div>
-
-## ⚡ Coding Activity & Statistics
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=syipmong&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=syipmong&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=syipmong&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=syipmong&theme=tokyonight" />
-</div>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=syipmong&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Overview" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=syipmong&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity" width="100%" />
+    </td>
+  </tr>
+</table>
